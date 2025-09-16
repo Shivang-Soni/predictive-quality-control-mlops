@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shivang/Documents/SDE%20Unterlagen/Projekte/AI%20and%20ML%20Projekte/predictive-quality-control-mlops/mlruns/955459405944247475/aad56f8b6a374fdea8c4922b9d7cff3e/artifacts
+end_time: 1758034621883
+entry_point_name: ''
+experiment_id: '955459405944247475'
+lifecycle_stage: active
+run_id: aad56f8b6a374fdea8c4922b9d7cff3e
+run_name: auspicious-worm-434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758034621875
+status: 4
+tags: []
+user_id: shivang

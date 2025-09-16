@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shivang/Documents/SDE%20Unterlagen/Projekte/AI%20and%20ML%20Projekte/predictive-quality-control-mlops/mlruns/955459405944247475/26511773f61c4accb184998c6092a7ab/artifacts
+end_time: 1758034948606
+entry_point_name: ''
+experiment_id: '955459405944247475'
+lifecycle_stage: active
+run_id: 26511773f61c4accb184998c6092a7ab
+run_name: abrasive-donkey-186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758034946908
+status: 3
+tags: []
+user_id: shivang

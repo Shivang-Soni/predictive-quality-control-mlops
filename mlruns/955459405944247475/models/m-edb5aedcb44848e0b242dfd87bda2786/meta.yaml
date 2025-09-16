@@ -1,0 +1,10 @@
+artifact_location: file:///Users/shivang/Documents/SDE%20Unterlagen/Projekte/AI%20and%20ML%20Projekte/predictive-quality-control-mlops/mlruns/955459405944247475/models/m-edb5aedcb44848e0b242dfd87bda2786/artifacts
+creation_timestamp: 1758034946927
+experiment_id: '955459405944247475'
+last_updated_timestamp: 1758034948604
+model_id: m-edb5aedcb44848e0b242dfd87bda2786
+model_type: null
+name: logistic_regression_model
+source_run_id: 26511773f61c4accb184998c6092a7ab
+status: 2
+status_message: null

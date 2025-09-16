@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shivang/Documents/SDE%20Unterlagen/Projekte/AI%20and%20ML%20Projekte/predictive-quality-control-mlops/mlruns/955459405944247475/57ef4cba15514e0cac9f1fa0e43dcef8/artifacts
+end_time: 1758034813300
+entry_point_name: ''
+experiment_id: '955459405944247475'
+lifecycle_stage: active
+run_id: 57ef4cba15514e0cac9f1fa0e43dcef8
+run_name: carefree-wasp-912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758034813293
+status: 4
+tags: []
+user_id: shivang

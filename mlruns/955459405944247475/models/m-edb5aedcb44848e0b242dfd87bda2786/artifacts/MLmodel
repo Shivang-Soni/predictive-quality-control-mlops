@@ -1,0 +1,22 @@
+artifact_path: file:///Users/shivang/Documents/SDE%20Unterlagen/Projekte/AI%20and%20ML%20Projekte/predictive-quality-control-mlops/mlruns/955459405944247475/models/m-edb5aedcb44848e0b242dfd87bda2786/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.3.2
+model_id: m-edb5aedcb44848e0b242dfd87bda2786
+model_size_bytes: 10237
+model_uuid: m-edb5aedcb44848e0b242dfd87bda2786
+prompts: null
+run_id: 26511773f61c4accb184998c6092a7ab
+utc_time_created: '2025-09-16 15:02:26.933191'
