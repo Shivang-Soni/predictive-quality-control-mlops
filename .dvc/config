@@ -1,4 +1,9 @@
 [core]
-    remote = gdrive
+    remote = minio
 ['remote "gdrive"']
     url = gdrive://1HUdITzV3QTOUnt8CVfW1uXWBPGP9awAE
+['remote "minio"']
+    url = s3://mlops-bucket
+    access_key_id = minioadmin
+    secret_access_key = minioadmin
+    endpointurl = http://localhost:9000

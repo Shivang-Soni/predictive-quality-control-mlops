@@ -5,3 +5,9 @@ fastapi
 uvicorn
 dvc
 pytest
+docker
+prometheus_client
+evidently==0.7.14
+requests
+pydantic
+prometheus_fastapi_instrumentator

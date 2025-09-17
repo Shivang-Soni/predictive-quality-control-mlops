@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# DVC + Data
+*.csv
+*.tsv
+*.parquet
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.onnx
+*.model
+*.log
+
+# DVC Cache 
+.dvc/cache/
+
+# Local configs
+.envrc
+*.secret
+*.key
+
+# Docker
+*.log
+*.pid
+*.sock
